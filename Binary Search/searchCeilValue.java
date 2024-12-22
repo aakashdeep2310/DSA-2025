@@ -5,7 +5,6 @@ public class searchCeilValue {
     
             int arr[] = {4, 4, 8, 8, 8, 15, 16, 23, 23, 42};
 
-            
             int ans = binarySearchCeil(arr, 4);
             System.out.println("The Ceil value is "  + ans);
         }
