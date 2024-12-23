@@ -1,7 +1,6 @@
 public class binarySearchInARange {
 
         public static void main(String[] args) {
-    
             int arr[] = { 2, 2, 4, 5, 7, 9, 25, 56, 88, 94 };
 
             int range[] = findRangeInInfininteArray(arr, 8);
@@ -16,8 +15,7 @@ public class binarySearchInARange {
                 System.out.println("Element found at index : " + ans);
             }
         }
-        
-        
+
         static int[] findRangeInInfininteArray(int arr[], int target){
 
             int range[] = new int[2];
