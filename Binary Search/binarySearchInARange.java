@@ -15,7 +15,6 @@ public class binarySearchInARange {
                 System.out.println("Element found at index : " + ans);
             }
         }
-
         static int[] findRangeInInfininteArray(int arr[], int target){
             int range[] = new int[2];
             int start = 0;
