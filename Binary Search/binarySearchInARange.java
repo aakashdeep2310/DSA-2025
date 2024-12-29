@@ -17,7 +17,6 @@ public class binarySearchInARange {
         }
 
         static int[] findRangeInInfininteArray(int arr[], int target){
-
             int range[] = new int[2];
             int start = 0;
             int end = 1;
