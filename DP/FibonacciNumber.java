@@ -10,7 +10,6 @@ class Solution {
         // for(int state = 2; state<=n; state++){
         //     dp[state] = dp[state-1] + dp[state-2]; 
         // }
-
         // return dp[n];
 
         // approach to save memory
